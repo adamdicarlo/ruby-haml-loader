@@ -1,6 +1,6 @@
 {
   "name": "ruby-haml-loader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Webpack Haml loader using actual Ruby `haml`",
   "main": "index.js",
   "repository": {
