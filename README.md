@@ -38,7 +38,7 @@ will return the HTML:
 ```
 
 ```javascript
-require("!haml?title=test!templates/my_template.html.haml")
+require("!ruby-haml?title=test!templates/my_template.html.haml")
 ```
 
 will return the HTML:
